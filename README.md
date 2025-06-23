@@ -1,4 +1,3 @@
-# Marketing-Campaign-Analysis-Project
 # Marketing Campaign Analysis Project
 
 ## Overview
@@ -10,8 +9,8 @@ This project undertakes a comprehensive analysis of marketing campaign data to e
 ### 1. Load the Dataset
 
 * **Objective:** Import the marketing campaign data from the provided CSV file into a pandas DataFrame to facilitate analysis.
-* **Dataset Link:** [Available For Download](https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/marketing_campaign.csv)
-* **Project Link (Python Colab):** [Available For Download](https://colab.research.google.com/drive/1Uf_8HBGx3sqMRaHKKRb6P6USov6X2reL?usp=sharing)
+* **Dataset Link:** [Available For Download](https://)
+* **Project Link (Python Colab):** [Available For Download](https:)
 
 ### 2. Descriptive Analysis
 
